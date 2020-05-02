@@ -1,1 +1,1 @@
-<p>burası oyuncular</p>
+<p> oyuncular sayfası ve düzeltilmeye çalışıldı.</p>
